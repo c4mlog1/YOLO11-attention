@@ -1,0 +1,7 @@
+path: /mnt/sda1/home/bmestaging/long_cam/Blood_Cell/datasets/Alam2019
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Platelets', 'RBC', 'WBC']
